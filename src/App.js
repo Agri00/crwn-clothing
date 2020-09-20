@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import HomePage from './Homepage/homepage'
+import HomePage from './pages/Homepage/homepage'
 
 function App() {
   return (
@@ -11,3 +11,4 @@ function App() {
 }
 
 export default App;
+ 
