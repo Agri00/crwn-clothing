@@ -1,3 +1,5 @@
 body {
   font-family: 'Open Sans Condensed';
+  padding: 20px 60px;
 }
+::selection { background: rgba(134, 134, 134, 0.945); }
